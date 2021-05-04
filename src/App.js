@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>Open-Works market research</h1>
       <h2>
         Deployed with{' '}
         <a
@@ -43,7 +43,7 @@ function App() {
         which contains a serverless <a href="https://golang.org/">Go</a>{' '}
         function. See{' '}
         <a href="/api/date">
-          <code>api/date</code> for the Date API with Go
+          <code>api/date</code> for the Date API with Go which we can substitute for Bruce's JSON API / Google Sheet endpoint
         </a>
         .
       </p>
